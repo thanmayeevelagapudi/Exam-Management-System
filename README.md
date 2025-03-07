@@ -57,18 +57,19 @@ Make sure you have the following installed:
     ./mvnw clean install
     ./mvnw spring-boot:run
 
-### **Frontend Setup:**
-###### Navigate to the frontend folder:
-
+### **Frontend:**
+1. Navigate to the frontend directory:
+    ```bash
     cd ../Frontend
-
-###### Install dependencies:
+    ```
+2. Install dependencies:
+    ```bash
     npm install
-
-###### Start the frontend server:
+    ```
+3. Run the frontend:
+    ```bash
     ng serve
-
-Note: You need to manually create an admin (Educator) user by inserting the details directly into the database.
+    ```
 
 
 ## Usage
