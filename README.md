@@ -1,6 +1,15 @@
 # Quiz Management System
 
-The **Quiz Management System** is a user-friendly platform that makes it easy for educators to create, manage, and share quizzes, while students can access and complete them seamlessly. Teachers can categorize quizzes, generate question papers, and track student performance, ensuring a smooth assessment experience.
+The **Quiz Management System** is a powerful and easy-to-use platform designed to simplify the process of creating, managing, and taking quizzes. It provides a seamless experience for both educators and students.
+
+#### For Educators:
+- Effortlessly create and organize quizzes under various categories.
+- Generate and download question papers using pre-built templates.
+- Monitor student performance through detailed reports and analytics.
+#### For Students:
+- Access quizzes through a user-friendly dashboard.
+- Attempt quizzes with a smooth and intuitive interface.
+- View scores and feedback instantly to track progress.
 
 ## Table of Contents
 
