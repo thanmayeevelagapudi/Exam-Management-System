@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.project.user_service.service.userService"/>
+    <fullyQualifiedTypeName name="com.project.user_service.service.userDetailsService"/>
+    <fullyQualifiedTypeName name="com.project.user_service.repository.userRepository"/>
+    <fullyQualifiedTypeName name="com.project.user_service.repository.roleRepository"/>
+    <fullyQualifiedTypeName name="com.project.quiz_service.repository.quizResultRepository"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,44 @@
+.dark{
+    background-color: #333 !important;
+    min-height: 100vh;
+  }
+
+  .dark .mat-card{
+    background-color: #333 !important;
+    color: white !important;
+  }
+
+  .dark .theme-text{
+    color: white !important;
+    background-color: #333 !important;
+  }
+
+.light {
+    background-color: #fff !important;
+  }
+
+.light .theme-text{
+  color: #333 !important;
+  background-color: white !important;
+}
+
+  .light .mat-card {
+    background-color: white !important;
+    color: #333 !important;
+  }
+
+.light .mat-toolbar{
+  background-color: white !important;
+  color: #333  !important;
+}
+
+.light .example-icon #github-icon {
+  --github-icon-path: url(../../Frontend/src/assets/github-mark.svg);
+}
+
+.dark .mat-card{
+  border: 1px solid rgba(0, 0, 0, 0.4) !important;
+}
+.light .mat-card{
+  border: 1px solid rgba(0, 0, 0, 0.3) !important;
+}
